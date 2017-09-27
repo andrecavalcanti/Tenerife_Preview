@@ -1,0 +1,16 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"type": "al",
+			"request": "publish",
+			"name": "Publish",
+			//"startupObjectId": 22,
+			"server": "https://navsep2017.eastus.cloudapp.azure.com",
+			"serverInstance": "NAV",
+			"authentication": "UserPassword"
+			//"tenant": ""
+			
+		}
+	]
+}
